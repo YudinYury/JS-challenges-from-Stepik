@@ -1,7 +1,5 @@
-.idea
 .venv
 venv
-__pycache__
 *.db
 *.json
 *.log

@@ -37,9 +37,9 @@ function ValidateStringWithParentheses(inputString) {
 
     return Object.freeze({
         validate,
+        clearEndOfStr, 
         // delPairedParentheses, 
         // findNonPairParentheses, 
-        // clearEndOfStr, 
         // findRight,
     });
 
